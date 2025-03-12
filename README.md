@@ -1,8 +1,8 @@
-<h1 align="center">🚀 <strong>Pump Fun Multi-Functional Trading Bot for Solana</strong> 🚀</h1>
+# Pump Fun Multi-Functional Trading Bot for Solana 🤖
 
 <h2>📊 Overview</h2>
 
-<p><strong>PumpFun Trading Bot</strong> is your reliable assistant in the world of automated trading on the Solana blockchain! 🌟 With <strong>PumpFun Trading Bot</strong>, you can effectively manage your investments and stay ahead in the cryptocurrency market!</p>
+**PumpFun Trading Bot** is your reliable assistant in the world of automated trading on the Solana blockchain! 🌟 With <strong>PumpFun Trading Bot</strong>, you can effectively manage your investments and stay ahead in the cryptocurrency market!</p>
 
 <p>With <strong>PumpFun Trading Bot</strong>, you can:</p>
 <ul>
