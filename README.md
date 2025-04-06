@@ -1,6 +1,6 @@
 <div align="center">
   
-## **PumpFun Bot** | **Automated Trading Bot**
+## **PumpFun Bot** | **Automated PumpFun Trading Bot** 📈⚡️
 
 </div>
 
