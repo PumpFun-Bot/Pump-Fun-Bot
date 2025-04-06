@@ -62,7 +62,7 @@ There are many trading bots, **but**:
 Currently available for **Windows**  
 *(Linux and macOS support coming soon)*
 
-<a href="https://talkingmanager.com/1C8kxSMV?name=PumpfunBotV1.2" download>
+<a href="#" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
